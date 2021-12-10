@@ -1,0 +1,6 @@
+Keras==2.2.4
+numpy==1.18.1
+pandas==1.0.1
+scikit-learn==0.21.2
+stanza==1.2
+tensorflow==1.15.5
