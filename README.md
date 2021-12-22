@@ -1,2 +1,2 @@
 # MCNNDDI
-Multimodal Convolutional Neural Network for deug drug associated events predictions 
+Multimodal Convolutional Neural Network for drug drug associated events predictions 
