@@ -6,6 +6,7 @@ The feature of drugs are used smiles (Chemical substructure), target,
 Enzyme, and pathways.
 The events.db file contain data of the paper which is a sqlite file.
 For extraction of data use spider.py file.
+For doing different experiments change the model type in main function.
 
 
 
